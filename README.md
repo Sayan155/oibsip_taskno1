@@ -13,3 +13,6 @@ Technologies Used
 >Java
 >MySQL
 >Swing (Java GUI Toolkit)
+
+Acknowledgments
+Special thanks to Oasis Infobyte for providing the opportunity to work on this project!
